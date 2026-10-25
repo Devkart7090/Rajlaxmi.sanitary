@@ -1,3 +1,5 @@
-RAJ LAXMI SANITARY - MOBILE SHOP MANAGEMENT WEBSITE
-Open index.html in a modern browser. Mobile responsive dashboard with sale, payments, customer due, purchase, stock, reports, CSV export and JSON backup/restore.
-Data is saved only in this browser on this device (local storage). No login, as requested. Anyone with access to this browser can see the data. It does not sync across devices. Back up regularly. Online hosting/shared data requires a secure database and additional setup.
+RAJ LAXMI SANITARY — EASY MOBILE WEBSITE
+
+Open index.html in a modern browser. Includes dashboard, sale entry, customer payment entry, due tracker, purchase entry, stock management, reports, CSV export, backup and restore.
+
+Important: Data is saved only in this browser on this device. No login is included as requested. It does not sync to other phones. Download backups regularly. Do not publish publicly with real customer data unless secure access and a backend database are added.
